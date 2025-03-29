@@ -11,3 +11,4 @@ A repository for learning GitHub.
     - Aquaponics
 
 
+![Techno Wizard](https://github.com/user-attachments/assets/47a7c388-74c3-45d1-8d3a-05863c3bb243)
